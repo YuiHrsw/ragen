@@ -1,14 +1,14 @@
-<div style="text-align: center;">
+<p align="center">
     <img width="120em" src="logo.jpg" alt="logo"/>
-</div>
+</p>
 
-## 🔦 $ragen$
+# 🦀 $ragen$
 
 A simple tool to generate `rust-project.json` for Rust-Analyzer in VSCode.
 
 If you want to write rust code in non-cargo project, this tool may be useful for you.
 
-## ❓ How to use
+## Quick Start
 
 1. Add ragen to your path  
 2. Install Rust-Analyzer extension in VSCode  
